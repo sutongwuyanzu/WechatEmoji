@@ -1,0 +1,6 @@
+interface:
+  display_name: "WeChat Emoji Sticker"
+  short_description: "制作原创动图表情并整理微信投稿素材"
+  default_prompt: "Use $wechat-emoji-sticker to make and prepare a WeChat sticker pack."
+policy:
+  allow_implicit_invocation: true
